@@ -4,3 +4,6 @@ A python visualization of the A* path finding algorithm. It allows you to pick y
 Requirements
 Python 3.x
 Pygame
+
+
+![Astar Visualizer](Astar.png)
